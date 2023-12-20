@@ -24,51 +24,51 @@ vm_items = {  # A nested dictionary storing each item's name, code, price, and s
     "Name" : "Cheetos Crunchy Cheese Flavour",
     "Code" : "A01",
     "Price": 7.00,
-    "Stock": 10,
+    "Stock": 5,
 
     "Name1" : "Lay's Classic Potato Chips",
     "Code1" : "A02",
     "Price1": 7.00,
-    "Stock1": 10,
+    "Stock1": 4,
 
     "Name2" : "Pringles Chips",
     "Code2" : "A03",
     "Price2": 7.00,
-    "Stock2": 10,
+    "Stock2": 3,
   },
 
   "Drinks" : {
     "Name" : "Diet Coke",
     "Code" : "B01",
     "Price": 5.00,
-    "Stock": 10,
+    "Stock": 2,
 
     "Name1" : "Diet Mountain Dew",
     "Code1" : "B02",
     "Price1": 5.00,
-    "Stock1": 10,
+    "Stock1": 1,
 
     "Name2" : "Diet Pepsi",
     "Code2" : "B03",
     "Price2": 5.00,
-    "Stock2": 10,
+    "Stock2": 2,
   },
 
   "Sweets" : {
     "Name" : "Hershey's Chocolate Bar",
     "Code" : "C01",
     "Price": 6.00,
-    "Stock": 10,
+    "Stock": 3,
 
     "Name1" : "M&Ms Milk Chocolate",
     "Code1" : "C02",
     "Price1": 6.00,
-    "Stock1": 10,
+    "Stock1": 4,
 
     "Name2" : "Snickers Bar",
     "Code2" : "C03",
     "Price2": 6.00,
-    "Stock2": 10, 
+    "Stock2": 5, 
   }
 }
 
